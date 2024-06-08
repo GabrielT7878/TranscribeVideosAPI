@@ -1,3 +1,3 @@
-model_size = "base"
+model_size = "small"
 
 tempFolder = 'tmp'
