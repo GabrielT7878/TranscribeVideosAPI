@@ -81,7 +81,7 @@ A requisição é do tipo POST, deve ser passado no body com o tipo form-data a 
 
 O arquivo `config.py` inclui as seguintes configurações:
 
-- `model_size`: Especifica o tamanho do modelo Whisper (padrão: "base").
+- `model_size`: Especifica o tamanho do modelo Whisper (padrão: "small").
 
     Tamanhos de modelos disponíveis
     - **tiny**
@@ -95,9 +95,12 @@ O arquivo `config.py` inclui as seguintes configurações:
 
 ## Exemplos de Resposta
 
+
 **SRT**
+
 ![alt text](https://live.staticflickr.com/65535/53778052229_ba037f1bd7_c.jpg)
 
 **Transcrição em Texto**
+
 ![alt text](https://live.staticflickr.com/65535/53778055994_8aaacaef14_c.jpg)
 
